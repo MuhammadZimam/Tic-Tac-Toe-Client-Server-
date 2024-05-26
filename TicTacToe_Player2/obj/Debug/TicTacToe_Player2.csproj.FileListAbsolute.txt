@@ -1,0 +1,7 @@
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\bin\Debug\TicTacToe_Player2.exe.config
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\bin\Debug\TicTacToe_Player2.exe
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\bin\Debug\TicTacToe_Player2.pdb
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\obj\Debug\TicTacToe_Player2.csproj.AssemblyReference.cache
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\obj\Debug\TicTacToe_Player2.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\obj\Debug\TicTacToe_Player2.exe
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Player2\obj\Debug\TicTacToe_Player2.pdb

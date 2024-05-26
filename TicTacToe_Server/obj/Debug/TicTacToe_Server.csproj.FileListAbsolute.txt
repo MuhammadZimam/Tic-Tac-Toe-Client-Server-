@@ -1,0 +1,7 @@
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\obj\Debug\TicTacToe_Server.csproj.AssemblyReference.cache
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\obj\Debug\TicTacToe_Server.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\bin\Debug\TicTacToe_Server.exe.config
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\bin\Debug\TicTacToe_Server.exe
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\bin\Debug\TicTacToe_Server.pdb
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\obj\Debug\TicTacToe_Server.exe
+C:\Users\Abdullah Khan\source\repos\TicTacToe_Server\obj\Debug\TicTacToe_Server.pdb
